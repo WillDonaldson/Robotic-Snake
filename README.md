@@ -4,5 +4,5 @@ This project contains two robotic snakes, the first being a single axis snake ca
 
 Written instructions and an explaination of how the snake moves can be found here: https://www.instructables.com/id/Bioinspired-Robotic-Snake/
 
-A YouTube video demonstrating it in motion can be found here:
+A YouTube video demonstrating it in motion can be found here:                     
 https://www.youtube.com/watch?v=e6Amh1GUPkA
